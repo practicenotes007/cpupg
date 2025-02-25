@@ -14,7 +14,7 @@
 
 # 学习记录表
 
-[个人学习的简要记录表格，只读](https://docs.qq.com/sheet/DVHBFdVdLSWxVcm9J?nlc=1&tab=ss_tswbqf&viewId=vnucy5)
+[个人学习的简要记录表格/只读](https://docs.qq.com/sheet/DVHBFdVdLSWxVcm9J?nlc=1&tab=ss_tswbqf&viewId=vnucy5)
 
 
 # 学习作业记录
