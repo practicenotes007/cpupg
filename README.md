@@ -1,4 +1,16 @@
+![CPU Playground](https://github.com/user-attachments/assets/5823ae5d-bae5-4c8a-9ccd-884c5045e50e)
+
+项目名称代表的含义：**cpupg，cpu playground**。也就是，这是一个**关于CPU设计的游乐场**。
+
+虽然是高大上的CPU设计，我自己把它当成一个工作之余偶尔换换内容，调剂调剂心情的思维游乐场。
+
+当真，同时，也别当真。
+
+Now, Let's play.
+
 # 项目目标
+
+![RISC-V CPU](https://github.com/user-attachments/assets/8b790f50-d398-4273-9e00-d8dfcc9dc53e)
 
 以开源项目“yxyx”作为课程大纲，记（挑）录（战）从0到1设计一颗risc-v cpu核心的学习全过程。
 
