@@ -38,3 +38,7 @@ Now, Let's play.
 > 作业要求：写一篇800字的读后感
 
 我的读后感：[《提问的智慧》读后感：十年研发路上的实践与共鸣.md](https://github.com/practicenotes007/cpupg/blob/main/%E3%80%8A%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F%EF%BC%9A%E5%8D%81%E5%B9%B4%E7%A0%94%E5%8F%91%E8%B7%AF%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E5%85%B1%E9%B8%A3.md)
+
+# 项目Github仓库主页
+
+👉 [实践笔记007/cpupg](https://github.com/practicenotes007/cpupg)
