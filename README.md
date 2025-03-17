@@ -1,3 +1,5 @@
+# 因其他high priority工作，本项目暂停更新 - 2025.03
+
 ![CPU Playground](https://github.com/user-attachments/assets/5823ae5d-bae5-4c8a-9ccd-884c5045e50e)
 
 项目名称代表的含义：**cpupg，cpu playground**。也就是，这是一个**关于CPU设计的游乐场**。
